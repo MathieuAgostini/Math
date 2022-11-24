@@ -10,7 +10,7 @@ Les fichiers `.c` composés de :
 2. `fichier.c` : où l'on récupère les données des différents fichiers utilisés
 3. `calculs.c` : qui contient toutes les fonctions utiles à l'algorithme KNN
 
-Ainsi que le fichier `main.h` 
+Ainsi que le fichier `main.h`.
 
 ## Le code ce trouve ici
 ### fonction 1
