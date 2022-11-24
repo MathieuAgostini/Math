@@ -7,7 +7,7 @@
 
   Hi, 
   
-  I am Mathieu Agostini, leaving in France, Paris. I am studying applied mathematics in finance at CY Tech, an engineering school and I am looking forward 
-  to present you different projects I am working on. 
+  I am leaving in France, Paris and I am studying applied mathematics in finance at CY Tech, an engineering school. I am looking forward 
+  to present you different projects I am working on !
   
-  I am currently working on a project : KNN (K-nearest neighboors) in C. Enjoy :)
+  The project I am currently working on is : KNN (K-nearest neighboors) in C. Enjoy :)
