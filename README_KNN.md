@@ -12,7 +12,8 @@ Les fichiers `.c` au nombre de trois avec :
 
 Ainsi que le fichier `main.h`.
 
-## Le code ce trouve ici
+## fichier.c
+[code]()
 ### fonction 1
 blablabl
 ### fonction 2
