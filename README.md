@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MathieuAgostini
+- 👋 Hi, I’m Mathieu
 - 👀 I’m interested in science and particulary in mathematics
 - 🌱 I’m currently learning applied mathematics in finance
 - 💞️ I’m looking to collaborate on github with you
