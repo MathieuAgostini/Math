@@ -13,7 +13,7 @@ Les fichiers `.c` au nombre de trois avec :
 Ainsi que le fichier `main.h`.
 
 ## fichier.c
-[code]()
+la fonction [lecture_fichier]() prend en entré la variable `compteur` (INT*) et renvoie le tableau `airbnbs` (tableau de type `logement`).
 ### fonction 1
 blablabl
 ### fonction 2
