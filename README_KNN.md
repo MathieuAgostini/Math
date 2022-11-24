@@ -5,7 +5,7 @@ Ce projet nous permet de nous familiariser avec l'intelligence artificielle au t
 
 ## Structure du code
 Le code est composé de quatre fichiers. 
-Les fichiers `.c` composés de :
+Les fichiers `.c` au nombre de trois avec :
 1. `main.c` : dans lequel se trouve la fonction main 
 2. `fichier.c` : où l'on récupère les données des différents fichiers utilisés
 3. `calculs.c` : qui contient toutes les fonctions utiles à l'algorithme KNN
