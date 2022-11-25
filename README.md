@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathieu
 - 👀 I’m interested in science and particulary in mathematics
-- 🌱 I’m currently learning applied mathematics in finance
+- 🌱 I’m currently studying applied mathematics in finance
 - 💞️ I’m looking to collaborate on github with you
 - 📫 How to reach me : @agostinima@cy-tech.fr
 - 
