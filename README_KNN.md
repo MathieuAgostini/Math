@@ -3,14 +3,14 @@ Dans le cadre de notre travail de groupe d'informatique en C, nous vous proposon
 
 Ce projet nous permet de nous familiariser avec l'intelligence artificielle au travers du machine leaning ainsi que d'appliquer les différentes notions étudiées en cours.
 
-## Structure du code
-Le code est composé de quatre fichiers. 
-Les fichiers `.c` au nombre de trois avec :
-1. `main.c` : dans lequel se trouve la fonction main 
-2. `fichier.c` : où l'on récupère les données des différents fichiers utilisés
-3. `calculs.c` : qui contient toutes les fonctions utiles à l'algorithme KNN
+## Structure et utilisation du code
+Le code est composé de cinq fichiers en c : `main.c` `lectureCSV.c` `calculs.c` testModeles.c` tri.c` et d'un fichier d'en-tête : `main.h`.
+Vous trouvez aussi le makefile grâce auquel vous pourrez exécuter le code en écrivant les lignes suivantes de code dans le terminal : 
 
-Ainsi que le fichier `main.h`.
+`make all`
+`./KNN`
+
+Vous trouverez également un fichier readme dans lequel vous trouverez des informations complémentaires à celles énoncés ci dessus.
 
 ## fichier.c
 la fonction [lecture_fichier]() prend en entré la variable `compteur` (INT*) et renvoie le tableau `airbnbs` (tableau de type `logement`).
